@@ -1,0 +1,12 @@
+venv/
+.idea/
+.env
+
+
+config/db.sqlite3
+config/api/migrations
+!config/api/migrations/__init__.py
+config/dormitory/migrations
+!config/dormitory/migrations/__init__.py
+config/users/migrations
+!config/users/migrations/__init__.py
